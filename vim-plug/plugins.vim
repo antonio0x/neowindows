@@ -3,8 +3,8 @@ call plug#begin('~/AppData/Local/nvim/plugged')
   " Comment code
   Plug 'tpope/vim-commentary'
   if exists('g:vscode')
-      " Easy motion for VSCode
-      Plug 'asvetliakov/vim-easymotion'
+    " Easy motion for VSCode
+    Plug 'asvetliakov/vim-easymotion'
   else
 
     " Syntax support

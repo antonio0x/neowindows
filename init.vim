@@ -34,13 +34,12 @@ else
   " Temas
   " Descomenta el tema que quieras utilizar y comenta el anterior 
   source $HOME/AppData/Local/nvim/themes/airline.vim
-  source $HOME/AppData/Local/nvim/themes/ayu.vim
+  " source $HOME/AppData/Local/nvim/themes/ayu.vim
   " source $HOME/AppData/Local/nvim/themes/codedark.vim
   " source $HOME/AppData/Local/nvim/themes/dracula.vim
   " source $HOME/AppData/Local/nvim/themes/gruvbox.vim
   " source $HOME/AppData/Local/nvim/themes/material.vim
   " source $HOME/AppData/Local/nvim/themes/onedark.vim
   " source $HOME/AppData/Local/nvim/themes/tokyonight.vim
-  " source $HOME/AppData/Local/nvim/themes/monokai-pro.vim
-
+  source $HOME/AppData/Local/nvim/themes/monokai-pro.vim
 endif
