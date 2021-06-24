@@ -272,7 +272,7 @@ Set-PoshPrompt -Theme marcduiker
 Para poder ver los temas que están disponibles utiliza la siguiente instrucción:
 
 ```powershell
-Get-PoshTheme
+Get-PoshThemes
 ```
 Podrás tener una gran variedad de Temas para elegir, cuando ejecutes el comando tendrás una salida como la siguiente:
 
